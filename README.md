@@ -4,7 +4,7 @@ This is a repository to centralize the docuemntation. To easily allow multiple u
 
 ## documentation by area
 
-- [custodians](wiki/development)
-- [development](wiki/development)
-- [finance](wiki/finance)
+- [custodians](../../wiki/Custodians)
+- [development](../../wiki/development)
+- [finance](../../wiki/finance)
 
