@@ -8,3 +8,6 @@ This is a repository to centralize the docuemntation. To easily allow multiple u
 - [development](../../wiki/development)
 - [finance](../../wiki/finance)
 
+## modules
+
+- [worker proposal](../../wiki/Wordker-proposal-module)
